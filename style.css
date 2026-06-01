@@ -1,0 +1,100 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.archivo-black-regular {
+  font-family: "Archivo Black", sans-serif;
+  font-weight: 400px;
+  font-style: normal;
+}
+
+#lista{
+   background-size: 100px;
+   background-color: rgb(24, 87, 41);
+   border-radius: 20px;
+   color: white;
+   border: 3px solid;
+   font-family: "Archivo Black", sans-serif;
+   
+}
+
+img{
+    border-radius: 15px;
+    width: 450px;
+    border: 2px solid;
+}
+
+h1{
+    text-align: center;
+    color:aliceblue;
+    font-family: "Archivo Black", sans-serif;
+    background-color: violet;
+    border-radius: 10px;
+}
+
+#p{
+    font-family: "Archivo Black", sans-serif;
+    color: aliceblue;
+    text-align: center;
+    background-color: rgb(184, 69, 252);
+    border-radius: 15px;
+}
+
+h2{
+   font-family: "Archivo Black", sans-serif;
+   text-align: center;
+   color: aliceblue;
+   background-color: rgb(184, 69, 252);
+    border-radius: 15px;
+}
+
+table, td ,th{
+  font-family: "Archivo Black", sans-serif;  
+  border: solid 5px rgb(40, 21, 209);
+  background-color: aliceblue;
+  color:black;
+
+}
+
+body{
+    background-image: url('https://img.odcdn.com.br/wp-content/uploads/2021/05/gta-v-1920x1080.jpg');
+    background-size: cover;
+    background-attachment: fixed;    
+}
+
+h3{
+  font-family: "Archivo Black", sans-serif; 
+  text-align: center; 
+}
+
+#file{
+  font-family: "Archivo Black", sans-serif; 
+  text-align: center; 
+  color: aliceblue;
+  background-color: rgb(184, 69, 252);
+    border-radius: 15px;
+}
+
+form{
+  font-family: "Archivo Black", sans-serif; 
+  text-align: center; 
+  color: aliceblue;
+  background-color: rgb(184, 69, 252);
+    border-radius: 15px;  
+}
+
+a{
+ font-family: "Archivo Black", sans-serif; 
+  text-align: center; 
+  color: aliceblue;
+  background-color: rgb(184, 69, 252);
+    border-radius: 15px;   
+}
+
+
+
+
+
