@@ -13,11 +13,12 @@ body{
 
 #lista{
    background-size: 100px;
-   background-color: rgb(24, 87, 41);
+   background-color: rgb(203,189,147);
    border-radius: 20px;
-   color: white;
+   color: black;
    border: 3px solid;
    font-family: "Archivo Black", sans-serif;
+   opacity: 95%;
    
 }
 
@@ -25,73 +26,97 @@ img{
     border-radius: 15px;
     width: 450px;
     border: 2px solid;
+    opacity: 95%;
+    
 }
 
 h1{
     text-align: center;
-    color:aliceblue;
+    color:rgb(0, 0, 0);
     font-family: "Archivo Black", sans-serif;
-    background-color: violet;
+    background-color: rgb(203,189,147);
     border-radius: 10px;
+    border: solid 1px;
+    border-width: 3px;
+    opacity: 95%; 
 }
 
 #p{
     font-family: "Archivo Black", sans-serif;
-    color: aliceblue;
+    color: black;
     text-align: center;
-    background-color: rgb(184, 69, 252);
+    background-color: rgb(203,189,147);
     border-radius: 15px;
+    border: solid 1px;
+  border-width: 3px;
+  opacity: 95%; 
 }
 
 h2{
    font-family: "Archivo Black", sans-serif;
    text-align: center;
-   color: aliceblue;
-   background-color: rgb(184, 69, 252);
+   color: rgb(0, 0, 0);
+   background-color: rgb(203,189,147);
     border-radius: 15px;
+    border: solid 1px;
+   border-width: 3px; 
+   opacity: 95%;
 }
 
 table, td ,th{
   font-family: "Archivo Black", sans-serif;  
-  border: solid 5px rgb(40, 21, 209);
-  background-color: aliceblue;
+  border: solid 5px rgb(203,189,147);
+  background-color: rgb(168, 158, 126);
   color:black;
+  opacity: 95%;
+   
 
 }
 
 body{
     background-image: url('https://img.odcdn.com.br/wp-content/uploads/2021/05/gta-v-1920x1080.jpg');
     background-size: cover;
-    background-attachment: fixed;    
-}
+    background-attachment: fixed;
+    
 
 h3{
   font-family: "Archivo Black", sans-serif; 
   text-align: center; 
+  opacity: 95%;
+  
 }
 
 #file{
   font-family: "Archivo Black", sans-serif; 
   text-align: center; 
-  color: aliceblue;
-  background-color: rgb(184, 69, 252);
+  color: black;
+  background-color: rgb(203,189,147);
     border-radius: 15px;
+    border: solid 1px;
+  border-width: 3px; 
+  opacity: 95%;
 }
 
 form{
   font-family: "Archivo Black", sans-serif; 
   text-align: center; 
-  color: aliceblue;
-  background-color: rgb(184, 69, 252);
-    border-radius: 15px;  
+  color: black;
+  background-color: rgb(203,189,147);
+    border-radius: 15px;
+    border: solid 1px;
+  border-width: 3px;  
+  opacity: 95%; 
 }
 
 a{
  font-family: "Archivo Black", sans-serif; 
   text-align: center; 
-  color: aliceblue;
-  background-color: rgb(184, 69, 252);
-    border-radius: 15px;   
+  color: black;
+  background-color: rgb(203,189,147);
+  border-radius: 8px;
+  border: solid 1px;
+  border-width: 3px;  
+  opacity: 95%;   
 }
 
 
