@@ -27,7 +27,17 @@ img{
     width: 450px;
     border: 2px solid;
     opacity: 95%;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
     
+}
+
+img:hover {
+    transform: scale(1.03);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+}
+
+#logo{
+  width: 100px;
 }
 
 h1{
@@ -118,8 +128,8 @@ a{
   border-width: 3px;  
   opacity: 95%;   
 }
-
-
-
-
-
+#my_logo{
+  background-color: transparent;
+  border: 0px;
+  border-width: 0px ;
+}
